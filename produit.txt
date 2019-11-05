@@ -1,1 +1,1 @@
-page produit
+page produit modif depuis la banche page-produit
