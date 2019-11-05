@@ -1,1 +1,3 @@
-Don't cry for me Argentina, The Truth is I never left you
+const madonna = () = > {
+    return "Don't cry for me Argentina, The Truth is I never left you";
+    }
