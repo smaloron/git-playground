@@ -1,1 +1,2 @@
-page produit modif depuis master
+page produit modif depuis master et depuis la banche page-produit
+
